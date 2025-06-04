@@ -25,9 +25,14 @@ This repository is a curated collection of my personal machine learning projects
 -Result visualizations and evaluation metrics.  
 -Explanatory README for each project.  
 
+## About Me
+I'm a passionate machine learning practitioner with a strong interest in building data-driven solutions. You can learn more about my background and achievements here:  
+📄[Resume](https://github.com/Raynaldi-DC/Resume)  
+📜[Certificates](https://github.com/Raynaldi-DC/Certificates)  
+
 ## Navigation
 [|Main Menu|](https://github.com/Raynaldi-DC/Portofolio)  
 -[Supervised Learning](https://github.com/Raynaldi-DC/Supervised-Learning)  
 -[Unsupervised Learning](https://github.com/Raynaldi-DC/Unsupervised-Learning)  
 -[Time Series](https://github.com/Raynaldi-DC/Time-Series)  
--[Natural Language Processing (NLP)](https://github.com/Raynaldi-DC/Natural-Language-Processing)
+-[Natural Language Processing (NLP)](https://github.com/Raynaldi-DC/Natural-Language-Processing)   
