@@ -1,4 +1,4 @@
-# Halo!
+# 👋🏻 Halo!
 Selamat Datang di Repository Saya.  
 (Welcome to My Repository)
 
@@ -31,8 +31,10 @@ I'm a passionate machine learning practitioner with a strong interest in buildin
 📜[Certificates](https://github.com/Raynaldi-DC/Certificates)  
 
 ## Navigation
-[|Main Menu|](https://github.com/Raynaldi-DC/Portofolio)  
+[| Portofolio |](https://github.com/Raynaldi-DC/Portofolio)  
 -[Supervised Learning](https://github.com/Raynaldi-DC/Supervised-Learning)  
 -[Unsupervised Learning](https://github.com/Raynaldi-DC/Unsupervised-Learning)  
 -[Time Series](https://github.com/Raynaldi-DC/Time-Series)  
 -[Natural Language Processing (NLP)](https://github.com/Raynaldi-DC/Natural-Language-Processing)   
+
+[| Main Menu ](https://github.com/Raynaldi-DC)[| Resume ](https://github.com/Raynaldi-DC/Resume)[| Certificates ](https://github.com/Raynaldi-DC/Certificates)[| Portofolio |](https://github.com/Raynaldi-DC/Portofolio)
