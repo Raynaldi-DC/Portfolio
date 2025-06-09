@@ -31,7 +31,7 @@ I'm a passionate machine learning practitioner with a strong interest in buildin
 📜[Certificates](https://github.com/Raynaldi-DC/Certificates)  
 
 ## Navigation
-[| Portofolio |](https://github.com/Raynaldi-DC/Portofolio)  
+[| Portofolio |](#)  
 -[Supervised Learning](https://github.com/Raynaldi-DC/Supervised-Learning)  
 -[Unsupervised Learning](https://github.com/Raynaldi-DC/Unsupervised-Learning)  
 -[Time Series](https://github.com/Raynaldi-DC/Time-Series)  
