@@ -2,7 +2,7 @@
 Selamat Datang di Repository Saya.  
 (Welcome to My Repository)
 
-## Portfolio
+## 🗂️ Portfolio
 This repository is a curated collection of my personal machine learning projects, designed to demonstrate my hands-on experience across various ML domains.
 
 **Projects are categorized into four major areas:**  
@@ -25,10 +25,12 @@ This repository is a curated collection of my personal machine learning projects
 -Result visualizations and evaluation metrics.  
 -Explanatory README for each project.  
 
-## About Me
+## 👤 About Me
 I'm a passionate machine learning practitioner with a strong interest in building data-driven solutions. You can learn more about my background and achievements here:  
 📄[Resume](https://github.com/Raynaldi-DC/Resume)  
 📜[Certificates](https://github.com/Raynaldi-DC/Certificates)  
+
+---
 
 ## Navigation
 _(You are currently on the main portfolio page, select one of the fields to see project details.)_  
