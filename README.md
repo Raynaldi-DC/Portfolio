@@ -6,6 +6,9 @@ Selamat Datang di Repository Saya.
 This repository is a curated collection of my personal machine learning projects, designed to demonstrate my hands-on experience across various ML domains.
 
 **Projects are categorized into four major areas:**  
+🗣️ [Natural Language Processing (NLP)](https://github.com/Raynaldi-DC/Natural-Language-Processing)  
+-Text classification, sentiment analysis, and embedding techniques.  
+-Using models such as TF-IDF, Word2Vec, and LSTM.  
 🧠 [Supervised Learning](https://github.com/Raynaldi-DC/Supervised-Learning)  
 -Classification and regression problems.  
 -Using models such as Random Forest, XGBoost, and Linear Regression.  
@@ -15,9 +18,6 @@ This repository is a curated collection of my personal machine learning projects
 📈 [Time Series](https://github.com/Raynaldi-DC/Time-Series)  
 -Forecasting and trend modeling.  
 -Using models such as LSTM, ARIMA, and Prophet.  
-🗣️ [Natural Language Processing (NLP)](https://github.com/Raynaldi-DC/Natural-Language-Processing)  
--Text classification, sentiment analysis, and embedding techniques.  
--Using models such as TF-IDF, Word2Vec, and LSTM.  
 
 **Each folder contains:**  
 -Clean, modular code in Python.  
@@ -34,10 +34,10 @@ I'm a passionate machine learning practitioner with a strong interest in buildin
 _(You are currently on the main portfolio page, select one of the fields to see project details.)_  
 
 [| Portfolio |](https://github.com/Raynaldi-DC/Portfolio)  
+-[Natural Language Processing (NLP)](https://github.com/Raynaldi-DC/Natural-Language-Processing)   
 -[Supervised Learning](https://github.com/Raynaldi-DC/Supervised-Learning)  
 -[Unsupervised Learning](https://github.com/Raynaldi-DC/Unsupervised-Learning)  
 -[Time Series](https://github.com/Raynaldi-DC/Time-Series)  
--[Natural Language Processing (NLP)](https://github.com/Raynaldi-DC/Natural-Language-Processing)   
 
 [| Main Menu ](https://github.com/Raynaldi-DC)[| Resume ](https://github.com/Raynaldi-DC/Resume)[| Certificates ](https://github.com/Raynaldi-DC/Certificates)[| Portfolio |](https://github.com/Raynaldi-DC/Portfolio)
 
