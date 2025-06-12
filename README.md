@@ -34,9 +34,9 @@ I'm a passionate machine learning practitioner with a strong interest in buildin
 
 ## Navigation
 _(You are currently on the main portfolio page, select one of this fields to see project details.)_  
-- [🧠 Natural Language Processing (NLP)](https://github.com/Raynaldi-DC/Natural-Language-Processing)  
-- [📘 Supervised Learning](https://github.com/Raynaldi-DC/Supervised-Learning)  
-- [📙 Unsupervised Learning](https://github.com/Raynaldi-DC/Unsupervised-Learning)  
+- [🗣️ Natural Language Processing (NLP)](https://github.com/Raynaldi-DC/Natural-Language-Processing)  
+- [🧠 Supervised Learning](https://github.com/Raynaldi-DC/Supervised-Learning)  
+- [📊 Unsupervised Learning](https://github.com/Raynaldi-DC/Unsupervised-Learning)  
 - [📈 Time Series](https://github.com/Raynaldi-DC/Time-Series)   
 
 [| Main Menu ](https://github.com/Raynaldi-DC)[| Resume ](https://github.com/Raynaldi-DC/Resume)[| Certificates ](https://github.com/Raynaldi-DC/Certificates)[| Portfolio Main Page |](https://github.com/Raynaldi-DC/Portofolio)  
