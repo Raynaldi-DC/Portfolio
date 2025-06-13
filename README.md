@@ -13,8 +13,8 @@ This repository is a curated collection of my personal machine learning projects
  - Classification and regression problems.  
  - Using models such as Random Forest, XGBoost, and Linear Regression.  
 ### 📊 [Unsupervised Learning](https://github.com/Raynaldi-DC/Unsupervised-Learning)  
- - Clustering, dimensionality reduction, and anomaly detection.  
- - Using algorithms like KMeans, PCA, and DBSCAN.  
+ - Clustering, segmentation, and anomaly detection.  
+ - Using algorithms like KMeans, Mixture Model, and DBSCAN.  
 ### 📈 [Time Series](https://github.com/Raynaldi-DC/Time-Series)  
  - Forecasting and trend modeling.  
  - Using models such as LSTM, ARIMA, and Prophet.  
