@@ -7,8 +7,8 @@ This repository is a curated collection of my personal machine learning projects
 
 **Projects are categorized into four major areas:**  
 ### 🗣️ [Natural Language Processing (NLP)](https://github.com/Raynaldi-DC/Natural-Language-Processing)  
- - Text classification, sentiment analysis, and embedding techniques.  
- - Using models such as TF-IDF, Word2Vec, and LSTM.  
+ - Text classification, sentiment analysis, extract data from text.  
+ - Using method such as BERT, Regex, and Fuzzy Match.  
 ### 🧠 [Supervised Learning](https://github.com/Raynaldi-DC/Supervised-Learning)  
  - Classification and regression problems.  
  - Using models such as Random Forest, XGBoost, and Linear Regression.  
