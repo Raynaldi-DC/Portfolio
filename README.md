@@ -6,20 +6,20 @@ Selamat Datang di Repository Saya.
 This repository is a curated collection of my personal machine learning projects, designed to demonstrate my hands-on experience across various ML domains.
 
 **Projects are categorized into four major areas:**  
-🗣️ [Natural Language Processing (NLP)](https://github.com/Raynaldi-DC/Natural-Language-Processing)  
--Text classification, sentiment analysis, and embedding techniques.  
--Using models such as TF-IDF, Word2Vec, and LSTM.  
-🧠 [Supervised Learning](https://github.com/Raynaldi-DC/Supervised-Learning)  
--Classification and regression problems.  
--Using models such as Random Forest, XGBoost, and Linear Regression.  
-📊 [Unsupervised Learning](https://github.com/Raynaldi-DC/Unsupervised-Learning)  
--Clustering, dimensionality reduction, and anomaly detection.  
--Using algorithms like KMeans, PCA, and DBSCAN.  
-📈 [Time Series](https://github.com/Raynaldi-DC/Time-Series)  
--Forecasting and trend modeling.  
--Using models such as LSTM, ARIMA, and Prophet.  
+### 🗣️ [Natural Language Processing (NLP)](https://github.com/Raynaldi-DC/Natural-Language-Processing)  
+ - Text classification, sentiment analysis, and embedding techniques.  
+ - Using models such as TF-IDF, Word2Vec, and LSTM.  
+### 🧠 [Supervised Learning](https://github.com/Raynaldi-DC/Supervised-Learning)  
+ - Classification and regression problems.  
+ - Using models such as Random Forest, XGBoost, and Linear Regression.  
+### 📊 [Unsupervised Learning](https://github.com/Raynaldi-DC/Unsupervised-Learning)  
+ - Clustering, dimensionality reduction, and anomaly detection.  
+ - Using algorithms like KMeans, PCA, and DBSCAN.  
+### 📈 [Time Series](https://github.com/Raynaldi-DC/Time-Series)  
+ - Forecasting and trend modeling.  
+ - Using models such as LSTM, ARIMA, and Prophet.  
 
-**Each folder contains:**  
+**_Each folder contains:_**  
 -Clean, modular code in Python.  
 -Notebooks for EDA and experimentation.  
 -Result visualizations and evaluation metrics.  
@@ -27,8 +27,8 @@ This repository is a curated collection of my personal machine learning projects
 
 ## 👤 About Me
 I'm a passionate machine learning practitioner with a strong interest in building data-driven solutions. You can learn more about my background and achievements here:  
-📄[Resume](https://github.com/Raynaldi-DC/Resume)  
-📜[Certificates](https://github.com/Raynaldi-DC/Certificates)  
+ - 📄[Resume](https://github.com/Raynaldi-DC/Resume)  
+ - 📜[Certificates](https://github.com/Raynaldi-DC/Certificates)  
 
 ---
 
